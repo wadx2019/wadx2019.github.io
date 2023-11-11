@@ -21,7 +21,7 @@ I am a master student in ShanghaiTech University under the supervision of Prof. 
 My research interest includes reinforcement learning, constrained optimization, deep equilibrium model and neural ode.
 
 # 🔥 News
-- *2023.09*: Two papers accepted by NeuriPS 2023!
+- *2023.09*: Two papers accepted by NeurIPS 2023!
 
 # 📝 Publications 
 
