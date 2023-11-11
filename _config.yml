@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shutong Ding \n 丁枢桐"
+  name             : "Shutong Ding"
+  cname            : 丁枢桐
   avatar           : "images/photo.jpg"
   bio              : "Master Student, ShanghaiTech University"
   location         : 
