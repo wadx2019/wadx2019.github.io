@@ -32,7 +32,7 @@ My research interest includes reinforcement learning, constrained optimization, 
 
 Shutong Ding, Jingya Wang, Yali Du, Ye Shi
 
-[[**paper**]](https://arxiv.org/abs/2310.09574) 
+[[**paper**]](https://arxiv.org/abs/2310.09574) [[**project**]](wadx2019.github.io/rpo-webpage/)
 
 </div>
 </div>
@@ -44,7 +44,7 @@ Shutong Ding, Jingya Wang, Yali Du, Ye Shi
 
 Shutong Ding, Tianyu Cui, Jingya Wang, Ye Shi
 
-[[**paper**]](https://arxiv.org/pdf/2310.09583) 
+[[**paper**]](https://arxiv.org/pdf/2310.09583) [[**project**]](wadx2019.github.io/homoode-webpage/) 
 
 </div>
 </div>
