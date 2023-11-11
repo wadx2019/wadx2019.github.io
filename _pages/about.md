@@ -51,7 +51,7 @@ Shutong Ding, Tianyu Cui, Jingya Wang, Ye Shi
 
 
 # 🎖 Honors and Awards
-- *20223.11* NeurIPS 2023 Scholar Award
+- *2023.11* NeurIPS 2023 Scholar Award
 - *2021.06* Outstanding Graduates of Fuzhou University
 - *2020.11* Lan Qiao Cup: Python Programming National Finals First Prize (Rank 9)
 - *2019.08* Robotics Workshop in University of Florida, "BEST TEAM" Award
