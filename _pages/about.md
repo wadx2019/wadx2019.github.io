@@ -29,7 +29,7 @@ My research interest includes reinforcement learning, diffusion models, constrai
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/publications/rpo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/publications/qvpo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization**
@@ -41,7 +41,7 @@ Shutong Ding, Ke Hu, Zhenhao Zhang, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 Poster</div><img src='images/publications/rpo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 Poster</div><img src='images/publications/dsg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Guidance with Spherical Gaussian Constraint for Conditional Diffusion**
@@ -53,7 +53,7 @@ Lingxiao Yang, Shutong Ding, Yifan Cai, Jingyi Yu, Jingya Wang, Ye Shi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 Poster</div><img src='images/publications/qvpo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Poster</div><img src='images/publications/rpo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Reduced Policy Optimization for Continuous Control with Hard Constraints**
@@ -65,7 +65,7 @@ Shutong Ding, Jingya Wang, Yali Du, Ye Shi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023 Poster</div><img src='images/publications/dsg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023 Poster</div><img src='images/publications/homoode.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Two Sides of The Same Coin: Bridging Deep Equilibrium Models and Neural ODEs via Homotopy Continuation**
