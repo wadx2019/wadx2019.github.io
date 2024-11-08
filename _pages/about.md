@@ -21,7 +21,7 @@ I am a PhD student in ShanghaiTech University under the supervision of Prof. Ye 
 My research interest includes reinforcement learning, diffusion models, constrained optimization and implicit models (e.g, deep equilibrium model and neural ode).
 
 # 🔥 News
-- *2024.09*: One paper accepted by NeurIPS 2024
+- *2024.09*: One paper accepted by NeurIPS 2024!
 - *2024.07*: I received the Outstanding Teaching Assistant Award in ShanghaiTech University!
 - *2024.05*: One paper accepted by ICML 2024!
 - *2023.12*: I gave a talk "Reduced Policy Optimization for Continuous Control with Hard Constraints" in the seminar of RLChina!  
