@@ -36,7 +36,7 @@ My research interest includes reinforcement learning, diffusion models, constrai
 
 Shutong Ding, Ke Hu, Zhenhao Zhang, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, Ye Shi
 
-[[**paper**]](https://arxiv.org/pdf/2405.16173) [[**project**]](/)
+[[**paper**]](https://arxiv.org/pdf/2405.16173) [[**project**]](/qvpo-webpage)
 
 </div>
 </div>
@@ -48,7 +48,7 @@ Shutong Ding, Ke Hu, Zhenhao Zhang, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wan
 
 Lingxiao Yang, Shutong Ding, Yifan Cai, Jingyi Yu, Jingya Wang, Ye Shi
 
-[[**paper**]](https://arxiv.org/pdf/2402.03201) [[**project**]](/)
+[[**paper**]](https://arxiv.org/pdf/2402.03201) [[**project**]](https://lingxiaoyang2023.github.io/DSG2024.github.io/)
 
 </div>
 </div>
