@@ -21,6 +21,7 @@ I am a PhD student in ShanghaiTech University under the supervision of Prof. Ye 
 My research interest includes reinforcement learning, diffusion models, constrained optimization and implicit models (e.g, deep equilibrium model and neural ode).
 
 # 🔥 News
+- *2024.09*: One paper accepted by NeurIPS 2024
 - *2024.07*: I received the Outstanding Teaching Assistant Award in ShanghaiTech University!
 - *2024.05*: One paper accepted by ICML 2024!
 - *2023.12*: I gave a talk "Reduced Policy Optimization for Continuous Control with Hard Constraints" in the seminar of RLChina!  
@@ -29,7 +30,7 @@ My research interest includes reinforcement learning, diffusion models, constrai
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/publications/qvpo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS2024 Poster</div><img src='images/publications/qvpo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization**
@@ -53,7 +54,7 @@ Lingxiao Yang, Shutong Ding, Yifan Cai, Jingyi Yu, Jingya Wang, Ye Shi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Poster</div><img src='images/publications/rpo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023 Poster</div><img src='images/publications/rpo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Reduced Policy Optimization for Continuous Control with Hard Constraints**
