@@ -21,6 +21,8 @@ I am a PhD student in ShanghaiTech University under the supervision of Prof. Ye 
 My research interest includes reinforcement learning, diffusion models, constrained optimization and implicit models (e.g, deep equilibrium model and neural ode).
 
 # 🔥 News
+- *2024.12*: I received the Outstanding Student Award in ShanghaiTech University!
+- *2024.10*: Two posters accepted by RLChina, 2024!
 - *2024.09*: One paper accepted by NeurIPS 2024!
 - *2024.07*: I received the Outstanding Teaching Assistant Award in ShanghaiTech University!
 - *2024.05*: One paper accepted by ICML 2024!
@@ -93,8 +95,9 @@ Shutong Ding, Tianyu Cui, Jingya Wang, Ye Shi
 - *2017.09 - 2021.06*, Fuzhou University, Fuzhou.
 
 # 💼 Services
-- Reviewer: CVPR 2024, NIPS 2024
+- Reviewer: CVPR 2024-2025, NIPS 2024, ICLR 2025, ICML 2025
 - Teaching Assistant: Convex Optimization **[SI251]** (2022 Autumn, 2024 Spring) in ShanghaiTech University
 
 # 💬 Invited Talks
 - *2023.12*, Reduced Policy Optimization for Continuous Control with Hard Constraints, RLChina.
+- *2024.12*, Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization, RLChina
