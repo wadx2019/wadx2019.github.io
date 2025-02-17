@@ -32,6 +32,18 @@ My research interest includes reinforcement learning, diffusion models, constrai
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/publications/diopt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DiOpt: Self-supervised Diffusion for Constrained Optimization**
+
+Shutong Ding, Yimiao Zhou, Ke Hu, Xi Yao, Junchi Yan, Xiaoying Tang, Ye Shi
+
+[[**paper**]](https://arxiv.org/pdf/2502.10330) [[**project**]](/*)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS2024 Poster</div><img src='images/publications/qvpo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
