@@ -107,9 +107,9 @@ Shutong Ding, Tianyu Cui, Jingya Wang, Ye Shi
 - *2017.09 - 2021.06*, Fuzhou University, Fuzhou.
 
 # 💼 Services
-- Reviewer: CVPR 2024-2025, NIPS 2024, ICLR 2025, ICML 2025, AISTATS 2025
+- Reviewer: CVPR 2024-2025, NIPS 2024-2025, ICLR 2025, ICML 2025, AISTATS 2025, ICLR 2025 Workshop DeLTa  
 - Teaching Assistant: Convex Optimization **[SI251]** (2022 Autumn, 2024 Spring) in ShanghaiTech University
 
 # 💬 Invited Talks
-- *2023.12*, Reduced Policy Optimization for Continuous Control with Hard Constraints, RLChina.
+- *2023.12*, Reduced Policy Optimization for Continuous Control with Hard Constraints, RLChina
 - *2024.12*, Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization, RLChina
