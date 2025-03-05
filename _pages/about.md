@@ -39,7 +39,7 @@ My research interest includes reinforcement learning, diffusion models, constrai
 
 Shutong Ding, Yimiao Zhou, Ke Hu, Xi Yao, Junchi Yan, Xiaoying Tang, Ye Shi
 
-[[**paper**]](https://arxiv.org/pdf/2502.10330) [[**project**]](/*)
+[[**paper**]](https://arxiv.org/pdf/2502.10330) [[**code**]](https://github.com/wadx2019/diopt) [[**project**]](/*)
 
 </div>
 </div>
