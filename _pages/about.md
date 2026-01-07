@@ -38,7 +38,7 @@ My research interest includes reinforcement learning, diffusion models, constrai
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/publications/GenPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning, NeurIPS 2025.** 
+**GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning** 
 
 Shutong Ding, Ke Hu, Shan Zhong, Haoyang Luo, Weinan Zhang, Jingya Wang, Jun Wang, Ye Shi
 
@@ -51,7 +51,7 @@ Shutong Ding, Ke Hu, Shan Zhong, Haoyang Luo, Weinan Zhang, Jingya Wang, Jun Wan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv Preprint</div><img src='images/publications/DreamPolicy.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion, arXiv:2505.18780**
+**One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion**
 
 Yahao Fan, Tianxiang Gui, Kaiyang Ji, Shutong Ding, Chixuan Zhang, Jiayuan Gu, Jingyi Yu, Jingya Wang, Ye Shi
 
