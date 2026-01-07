@@ -21,6 +21,9 @@ I am a PhD student in ShanghaiTech University under the supervision of Prof. Ye 
 My research interest includes reinforcement learning, diffusion models, constrained optimization and implicit models (e.g, deep equilibrium model and neural ode).
 
 # 🔥 News
+- *2025.11*: I gave a talk "GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning" in the seminar of RLChina!  
+- *2025.09*: One poster accepted by RLChina, 2024!
+- *2025.05*: One papers accepted by NeurIPS 2025!
 - *2024.12*: I received the Outstanding Student Award in ShanghaiTech University!
 - *2024.10*: Two posters accepted by RLChina, 2024!
 - *2024.09*: One paper accepted by NeurIPS 2024!
@@ -31,6 +34,32 @@ My research interest includes reinforcement learning, diffusion models, constrai
 - *2023.09*: Two papers accepted by NeurIPS 2023!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/publications/GenPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning, NeurIPS 2025.** 
+
+Shutong Ding, Ke Hu, Shan Zhong, Haoyang Luo, Weinan Zhang, Jingya Wang, Jun Wang, Ye Shi
+
+[[**paper**]](https://www.arxiv.org/abs/2505.18763)
+[[**project**]](https://dingsht.tech/genpo-webpage)  
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv Preprint</div><img src='images/publications/DreamPolicy.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion, arXiv:2505.18780**
+
+Yahao Fan, Tianxiang Gui, Kaiyang Ji, Shutong Ding, Chixuan Zhang, Jiayuan Gu, Jingyi Yu, Jingya Wang, Ye Shi
+
+[[**paper**]](https://www.arxiv.org/abs/2505.18780)
+[[**project**]](https://dreampolicy.github.io/) 
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/publications/diopt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -107,9 +136,10 @@ Shutong Ding, Tianyu Cui, Jingya Wang, Ye Shi
 - *2017.09 - 2021.06*, Fuzhou University, Fuzhou.
 
 # 💼 Services
-- Reviewer: CVPR 2024-2025, NIPS 2024-2025, ICLR 2025, ICML 2025, AISTATS 2025, ICLR 2025 Workshop DeLTa  
+- Reviewer: CVPR 2024-2026, NIPS 2024-2025, ICLR 2025-2026, ICML 2025-2026, AISTATS 2025-2026, ICLR 2025 Workshop DeLTa  
 - Teaching Assistant: Convex Optimization **[SI251]** (2022 Autumn, 2024 Spring) in ShanghaiTech University
 
 # 💬 Invited Talks
 - *2023.12*, Reduced Policy Optimization for Continuous Control with Hard Constraints, RLChina
 - *2024.12*, Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization, RLChina
+- *2025.11*, GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning, RLChina
