@@ -23,7 +23,7 @@ My research interest includes reinforcement learning, diffusion models, constrai
 # 🔥 News
 - *2025.11*: I gave a talk "GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning" in the seminar of RLChina!  
 - *2025.09*: One poster accepted by RLChina, 2024!
-- *2025.05*: One papers accepted by NeurIPS 2025!
+- *2025.05*: One paper accepted by NeurIPS 2025!
 - *2024.12*: I received the Outstanding Student Award in ShanghaiTech University!
 - *2024.10*: Two posters accepted by RLChina, 2024!
 - *2024.09*: One paper accepted by NeurIPS 2024!
@@ -35,7 +35,7 @@ My research interest includes reinforcement learning, diffusion models, constrai
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/publications/GenPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/publications/genpo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning** 
